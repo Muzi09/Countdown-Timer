@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+#input {
+  box-sizing: border-box;
+  width: 20%;
+  margin: 2em 40%;
+  padding-left: 5px;
+  font-size: x-large;
+}
+
+#current-time {
+  display: flex;
+  box-sizing: border-box;
+  margin: 0 35%;
+  font-size: 20em;
+  justify-content: center;
+}
